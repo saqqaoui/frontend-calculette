@@ -1,0 +1,16 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css");
+.p-4 {
+    padding: 1.5rem !important;
+    margin: 0.05rem;
+}
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: inherit;
+    border-radius: .3rem;
+}
+.btn-info {
+    color: #fff;
+    background-color: #212a45;
+    border-color: #17a2b8;
+}
